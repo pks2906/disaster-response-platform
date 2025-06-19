@@ -11,7 +11,6 @@ const officialUpdatesRoutes = require('./routes/officialUpdatesRoutes');
 const imageVerifyRoutes = require('./routes/imageVerifyRoutes');
 
 
-
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server, {

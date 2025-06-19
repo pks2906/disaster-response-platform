@@ -197,17 +197,6 @@ PORT=5000
 
 ---
 
-## Submission Checklist
 
-* [x] Full backend using Node + Supabase
-* [x] Frontend built with React
-* [x] Disaster creation form
-* [x] Social media + news feeds
-* [x] Image verification section
-* [x] Fully responsive layout done
-* [x] `.env.example` included
-* [x] Deployment completed (Render + Vercel)
-* [x] All API routes tested via Postman
-* [x] ZIP file prepared without `.env`
 
 

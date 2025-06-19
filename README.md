@@ -89,6 +89,8 @@ Disaster-Response-Coordination-Platform/
 
 All backend APIs were tested using Postman. Below are sample screenshots and test cases:
 
+**Note:** All tests were performed directly on the deployed backend hosted on Render, not just on localhost.
+
 ### 1. Create Disaster (POST /api/disasters)
 - Inputs: title, location_name, description, tags
 - Expected: 201 Created

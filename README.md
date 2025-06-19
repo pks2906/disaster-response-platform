@@ -204,7 +204,7 @@ PORT=5000
 * [x] Disaster creation form
 * [x] Social media + news feeds
 * [x] Image verification section
-* [x] Fully responsive layout
+* [x] Fully responsive layout done
 * [x] `.env.example` included
 * [x] Deployment completed (Render + Vercel)
 * [x] All API routes tested via Postman
